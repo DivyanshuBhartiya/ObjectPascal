@@ -1,0 +1,11 @@
+.data
+	str: .asciiz " Program ended. \n" 
+	newLine: .asciiz "\n" 
+	scope1: .space 4
+	scope2: .space 4
+	scope3: .space 4
+	scope4: .space 4
+	print1 : .asciiz "i2 ="
+	print2 : .asciiz "i1 = "
+	print3 : .asciiz "i1 = "
+	print4 : .asciiz "\n Welcome to a 3 step proc within func within proc program \n"
